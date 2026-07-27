@@ -1,0 +1,9 @@
+.btn-send {
+    border: 1px solid #000;
+    padding: 8px 16px;
+    cursor: pointer;
+}
+
+.btn-send:hover {
+    background-color: skyblue;
+}
